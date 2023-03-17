@@ -1,0 +1,5 @@
+Este plugin permite crear una pestaña personalizada en la zona de productos de woocommerce.
+
+La pestaña se puede renombrar, es posible insertar código html, shorcodes de wordpress y texto básico.
+
+En caso de necesitar más pestañas, simplemente hay que duplicar y renombrar las funciones.
